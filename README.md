@@ -1,1 +1,2 @@
 # bmerveCS405P2
+This project implements a 3D mesh renderer with texture support and realistic lighting effects. It includes handling non-power-of-2 textures by adjusting wrapping and filtering settings. Ambient and diffuse lighting are added to simulate basic illumination, while specular lighting is implemented using the Phong reflection model for realistic highlights. Dynamic controls allow enabling/disabling specular effects and adjusting parameters like intensity and shininess. All tasks are integrated into the MeshDrawer class and the shaders for smooth rendering.
